@@ -9,7 +9,7 @@ const Buffer = require('buffer').Buffer;
 //The default port for PostgreSQL is 5432
 const client = new Client({
   user: 'postgres',
-  password: 'password',
+  password: '',
   host: 'localhost',
   port: '5432',
   database: 'takuwa'
