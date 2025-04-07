@@ -10,14 +10,10 @@ LInk:https://myaccount.google.com/
      EMAIL_USER=kn55@gmail.com   
      EMAIL_PASS=pkyz kwuc uiqu ztqd
 
-![app](https://github.com/user-attachments/assets/ad13c629-eff4-40c7-8b94-4323a87a04f4)
+![app](https://github.com/user-attachments/assets/25d9a7cc-2db4-4365-a02c-f269511073aa)
 
-
-![google](https://github.com/user-attachments/assets/6e0d7b28-f7dd-47d9-aafa-c3379fc73de8)
-
-
+![app2](https://github.com/user-attachments/assets/eafc3d49-0762-4d9b-9cc1-73637a9a5253)
  
-
 Step-2:
 Here, I used NodeJS for the back with the node nodemailer to send the email link to user.
 
