@@ -41,13 +41,17 @@ SO use setUrlStrategy package of flutter in web application
 
 UI:
 
-![login apge](https://github.com/user-attachments/assets/4e03cef0-4e0e-41ba-a536-79cebf8e9310)
+![login apge](https://github.com/user-attachments/assets/b024e909-39c2-4871-902b-3a37170a3d60)
 
-![sign up](https://github.com/user-attachments/assets/0868027f-c5e0-4a23-b2d2-786a29d25bff)
+![crea](https://github.com/user-attachments/assets/20a5f673-fd9c-44d0-94e8-e73a17ed266e)
 
-![fpr](https://github.com/user-attachments/assets/84dbcf48-5c8d-43a3-9c8b-aadcd035ae8d)
+![fpr](https://github.com/user-attachments/assets/9deb683c-64be-4216-afcd-118410456b6b)
 
-![reset password](https://github.com/user-attachments/assets/e29ff6b4-b7ef-47b0-9d42-57ff6ec07f2d)
+![reset password](https://github.com/user-attachments/assets/85f735ba-53d9-4703-9b5e-5471b2a4dd2c)
+
+
+
+
 
 
 
